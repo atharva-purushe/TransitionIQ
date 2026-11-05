@@ -1,0 +1,15 @@
+{
+  "tax_year": 2026,
+  "federal_long_term_capital_gains_rate": 0.15,
+  "state_long_term_capital_gains_rate": 0.0,
+  "annual_inflation_rate": 0.025,
+  "annual_social_security_income": 24000,
+  "withdrawal_need_first_year": 60000,
+  "simulation_count": 5000,
+  "simulation_years": 32,
+  "notes": [
+    "Illustrative planning assumptions, not tax, legal, or investment advice.",
+    "Tax rates are configurable simplifications and must be replaced with documented current-law calculations before production use.",
+    "Retirement simulation uses annual lognormal returns; it is not a forecast."
+  ]
+}

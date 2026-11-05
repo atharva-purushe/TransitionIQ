@@ -1,0 +1,8 @@
+persona_id,strategy,ticker,asset_class,account_type,market_value,cost_basis,annual_return,annual_volatility,expense_ratio,advisory_fee,surrender_charge,liquidity_score
+pre_retirement_58,current,USMV,US Equity,taxable,180000,95000,0.075,0.145,0.0015,0.0025,0,0.95
+pre_retirement_58,current,AGG,US Bonds,traditional_ira,220000,220000,0.042,0.060,0.0003,0.0025,0,0.98
+pre_retirement_58,current,ANNUITY,Annuity,taxable,120000,100000,0.040,0.045,0.0120,0.0025,0.08,0.30
+pre_retirement_58,current,CASH,Cash,taxable,80000,80000,0.030,0.010,0.0000,0.0000,0,1.00
+pre_retirement_58,proposed,VTI,US Equity,taxable,280000,280000,0.092,0.180,0.0003,0.0075,0,0.95
+pre_retirement_58,proposed,BND,US Bonds,traditional_ira,220000,220000,0.045,0.065,0.0003,0.0075,0,0.98
+pre_retirement_58,proposed,VGSH,Short Bonds,taxable,100000,100000,0.038,0.025,0.0004,0.0075,0,0.96

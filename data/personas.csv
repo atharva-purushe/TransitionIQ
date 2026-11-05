@@ -1,0 +1,4 @@
+persona_id,name,current_age,retirement_age,state,federal_capital_gains_rate,state_capital_gains_rate,risk_tolerance,annual_retirement_spend,annual_other_income,liquid_reserve,life_expectancy
+pre_retirement_58,Pre-retirement executive,58,60,Texas,0.15,0.00,moderate,70000,24000,50000,90
+retiree_68,Income-focused retiree,68,68,California,0.15,0.093,conservative,65000,30000,75000,90
+growth_38,High-income growth investor,38,60,New York,0.20,0.0685,growth,100000,30000,40000,90
